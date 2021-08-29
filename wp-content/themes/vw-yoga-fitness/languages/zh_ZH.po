@@ -1,0 +1,725 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VW Yoga Fitness\n"
+"Language-Team: VW Themes <support@vwthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
+
+#: 404.php:13 inc/customizer.php:436 inc/customizer.php:443
+msgid "404 Not Found"
+msgstr "找不到404"
+
+#: 404.php:14 inc/customizer.php:450 inc/customizer.php:457
+msgid ""
+"Looks like you have taken a wrong turn, Dont worry, it happens to the best "
+"of us."
+msgstr "看来您走错了方向，别担心，这对我们所有人来说都是偶然的。"
+
+#: no-results.php:17
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "别担心，这对我们所有人来说都是偶然的。"
+
+#: 404.php:16
+msgid "Return to the home page"
+msgstr "返回主页"
+
+#: archive.php:43 archive.php:79 archive.php:114 archive.php:149
+#: archive.php:186 archive.php:225 archive.php:261 image.php:38 image.php:71
+#: image.php:103 image.php:135 image.php:169 image.php:204 image.php:236
+#: index.php:43 index.php:76 index.php:108 index.php:140 index.php:174
+#: index.php:209 index.php:241 search.php:39 search.php:73 search.php:106
+#: search.php:139 search.php:174 search.php:211 search.php:245 single.php:38
+#: single.php:71 sinlge.php:103 sinlge.php:135 sinlge.php:169 sinlge.php:204
+#: sinlge.php:236
+msgid "Previous page"
+msgstr "上一页"
+
+#: archive.php:44 archive.php:80 archive.php:115 archive.php:150
+#: archive.php:187 archive.php:226 archive.php:262 image.php:39 image.php:72
+#: image.php:104 image.php:136 image.php:170 image.php:205 image.php:237
+#: index.php:44 index.php:77 index.php:109 index.php:141 index.php:175
+#: index.php:210 index.php:242 search.php:40 search.php:74 search.php:107
+#: search.php:140 search.php:175 search.php:212 search.php:246 single.php:39
+#: single.php:72 single.php:104 single.php:136 single.php:170 single.php:205
+#: single.php:237
+msgid "Next page"
+msgstr "下一页"
+
+#: archive.php:45 archive.php:81 archive.php:116 archive.php:151
+#: archive.php:188 archive.php:227 archive.php:263 image.php:40 image.php:73
+#: image.php:105 image.php:137 image.php:171 image.php:206 image.php:238
+#: index.php:45 index.php:78 index.php:110 index.php:142 index.php:176
+#: index.php:211 index.php:243 search.php:41 search.php:75 search.php:108
+#: search.php:141 search.php:176 search.php:213 search.php:247 single.php:40
+#: single.php:73 single.php:105 single.php:137 single.php:171 single.php:206
+#: single.php:238
+msgid "Page"
+msgstr "页"
+
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "一种关于“％s”的想法"
+
+#: comments.php:39
+msgid "comments title"
+msgstr "评论标题"
+
+#: comments.php:70
+msgid "Comments are closed"
+msgstr "评论被关闭"
+
+#: footer.php:31
+msgid "Copyright 2018-"
+msgstr "版权2018-"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions.php:67
+msgid "Warm Greetings to you!!"
+msgstr "热烈的问候！"
+
+#: functions.php:68
+msgid ""
+"Thank you for choosing VW Yoga Fitness Theme. Would like to have you on our "
+"Welcome page so that you can reap all the benefits of our VW Yoga Fitness "
+"Theme."
+msgstr ""
+"感谢您选择大众瑜伽健身主题。希望您进入我们的“欢迎”页面，以便您可以享受我们的"
+"大众瑜伽健身主题的所有好处。"
+
+#: functions.php:69
+msgid "GET STARTED"
+msgstr "开始使用"
+
+#: functions.php:77
+msgid "Blog Sidebar"
+msgstr "博客侧栏"
+
+#: functions.php:78
+msgid "Appears on blog page sidebar"
+msgstr "出现在博客页面侧栏上"
+
+#: functions.php:87
+msgid "page sidebar"
+msgstr "页面侧栏"
+
+#: functions.php:88 functions.php:98
+msgid "Appears on page sidebar"
+msgstr "出现在页面侧栏上"
+
+#: functions.php:97
+msgid "Sidebar 3"
+msgstr "侧边栏3"
+
+#: functions.php:107
+msgid "Footer Navigation 1"
+msgstr "页脚导航1"
+
+#: functions.php:108
+msgid "Appears on footer 1"
+msgstr "出现在页脚1"
+
+#: functions.php:117
+msgid "Footer Navigation 2"
+msgstr "页脚导航2"
+
+#: functions.php:118
+msgid "Appears on footer 2"
+msgstr "出现在页脚2"
+
+#: functions.php:127
+msgid "Footer Navigation 3"
+msgstr "页脚导航3"
+
+#: functions.php:128
+msgid "Appears on footer 3"
+msgstr "出现在页脚3"
+
+#: functions.php:137
+msgid "Footer Navigation 4"
+msgstr "页脚导航4"
+
+#: functions.php:138
+msgid "Appears on footer 4"
+msgstr "出现在页脚4"
+
+#: functions.php:147 inc/customizer.php:96
+msgid "Shop Page Sidebar"
+msgstr "商店页面侧栏"
+
+#: functions.php:148 functions.php:158
+msgid "Appears on shop page"
+msgstr "出现在商店页面上"
+
+#: functions.php:157 inc/customizer.php:107
+msgid "Single Product Sidebar"
+msgstr "单品侧边栏"
+
+#: functions.php:326
+msgid "Yoga WordPress Theme"
+msgstr "瑜伽WordPress主题"
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr "没有发现"
+
+#: no-results.php:12
+msgid "Ready to publish your first post? Get started here"
+msgstr "准备发布您的第一篇文章吗？从这里开始"
+
+#: no-results.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords"
+msgstr "抱歉，没有符合您的搜索条件。请使用一些其他关键字再试一次"
+
+#: no-results.php:19
+msgid "Back to Home Page"
+msgstr "返回首页"
+
+#: search.php:19 search.php:53 search.php:86 search.php:119 search.php:154
+#: search.php:189 search.php:225
+msgid "Results For: %s"
+msgstr "结果：％s"
+
+#: searchform.php:10 searchform.php:12
+msgid "Search"
+msgstr "搜索"
+
+#: searchform.php:10
+msgid "placeholder"
+msgstr "占位符"
+
+#: searchform.php:12
+msgid "submit button"
+msgstr "提交按钮"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "档案"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "元"
+
+#: inc/logo/logo-resizer.php:19
+msgid "Logo Size"
+msgstr "徽标尺寸"
+
+#: inc/social-widgets/social-icon.php:12
+msgid "Social Icon"
+msgstr "社会图标"
+
+#: inc/social-widgets/social-icon.php:14
+msgid "Widget for Social icons section"
+msgstr "社交图标小部件部分"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Facebook"
+msgstr "脸书"
+
+msgid "Twitter"
+msgstr "推特"
+
+msgid "Google+"
+msgstr "Google+"
+
+msgid "Linkedin"
+msgstr "领英"
+
+msgid "Instagram"
+msgstr "Instagram的"
+
+msgid "Pinterest"
+msgstr "Pinterest的"
+
+msgid "Tumblr"
+msgstr "Tumblr"
+
+msgid "Youtube"
+msgstr "优酷"
+
+msgid "Font Color"
+msgstr "字体颜色"
+
+msgid "Font Family"
+msgstr "字体系列"
+
+msgid "Font Size"
+msgstr "字体大小"
+
+msgid "Font Style"
+msgstr "字体样式"
+
+msgid "Line Height"
+msgstr "线高"
+
+msgid "Letter Spacing"
+msgstr "字母间距"
+
+msgid "No Fonts weight"
+msgstr "没有字体粗细"
+
+msgid "Thin"
+msgstr "瘦"
+
+msgid "Light"
+msgstr "光"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Medium"
+msgstr "介质"
+
+msgid "Bold"
+msgstr "胆大"
+
+msgid "Ultra Bold"
+msgstr "超粗体"
+
+msgid "Italic"
+msgstr "斜体"
+
+msgid "Oblique"
+msgstr "斜"
+
+#: inc/typography/ctypo.php:27
+msgid "Typography"
+msgstr "版式"
+
+#: inc/typography/ctypo.php:31
+msgid "Content Typography"
+msgstr "内容排版"
+
+#: inc/typography/ctypo.php:36
+msgid "Headings Typography"
+msgstr "标题版式"
+
+#: inc/typography/ctypo.php:41
+msgid "Global Typography"
+msgstr "全球版式"
+
+#: inc/typography/ctypo.php:49
+msgid "First Highlight Color"
+msgstr "第一突出颜色"
+
+#: inc/typography/ctypo.php:50 inc/typography/ctypo.php:61
+msgid "It will change the highlight color in one click"
+msgstr "一键更改高光颜色"
+
+#: inc/typography/ctypo.php:60
+msgid "Second Highlight Color"
+msgstr "第二高光颜色"
+
+#: inc/typography/ctypo.php:149
+msgid "Paragraph Color"
+msgstr "段落颜色"
+
+#: inc/typography/ctypo.php:150 inc/typography/ctypo.php:156
+msgid "Select how you want your paragraphs to appear."
+msgstr "选择您希望段落显示的方式。"
+
+#: inc/typography/ctypo.php:155
+msgid "Paragraph Typography"
+msgstr "段落排版"
+
+#: inc/typography/ctypo.php:176
+msgid "Anchor Tag Color"
+msgstr "锚标签颜色"
+
+#: inc/typography/ctypo.php:177 inc/typography/ctypo.php:183
+msgid "Select how you want your a tag to appear."
+msgstr "选择您希望标签显示的方式。"
+
+#: inc/typography/ctypo.php:149
+msgid "Anchor Tag Typography"
+msgstr "锚标签印刷"
+
+#: inc/typography/ctypo.php:203
+msgid "Heading 1 Color"
+msgstr "标题1颜色"
+
+#: inc/typography/ctypo.php:204 inc/typography/ctypo.php:210
+msgid "Select how heading 1 should appear"
+msgstr "选择标题1的显示方式"
+
+#: inc/typography/ctypo.php:209
+msgid "Heading 1"
+msgstr "标题1"
+
+#: inc/typography/ctypo.php:230
+msgid "Heading 2 Color"
+msgstr "标题2颜色"
+
+#: inc/typography/ctypo.php:231 inc/typography/ctypo.php:237
+msgid "Select how heading 2 should appear"
+msgstr "选择标题2的显示方式"
+
+#: inc/typography/ctypo.php:236
+msgid "Heading 2"
+msgstr "标题2"
+
+#: inc/typography/ctypo.php:257
+msgid "Heading 3 Color"
+msgstr "标题3颜色"
+
+#: inc/typography/ctypo.php:258 inc/typography/ctypo.php:264
+#: inc/typography/ctypo.php:285 inc/typography/ctypo.php:291
+msgid "Select how heading 4 should appear"
+msgstr "选择标题4的显示方式"
+
+#: inc/typography/ctypo.php:263
+msgid "Heading 3"
+msgstr "标题3"
+
+#: inc/typography/ctypo.php:284
+msgid "Heading 4 Color"
+msgstr "标题4颜色"
+
+#: inc/typography/ctypo.php:290
+msgid "Heading 4"
+msgstr "标题4"
+
+#: inc/typography/ctypo.php:311
+msgid "Heading 5 Color"
+msgstr "标题5颜色"
+
+#: inc/typography/ctypo.php:312 inc/typography/ctypo.php:318
+msgid "Select how heading 5 should appear"
+msgstr "选择标题5的显示方式"
+
+#: inc/typography/ctypo.php:317
+msgid "Heading 5"
+msgstr "标题5"
+
+#: inc/typography/ctypo.php:338
+msgid "Heading 6 Color"
+msgstr "标题6颜色"
+
+#: inc/typography/ctypo.php:339 inc/typography/ctypo.php:345
+msgid "Select how heading 6 should appear"
+msgstr "选择标题6的显示方式"
+
+#: inc/typography/ctypo.php:344
+msgid "Heading 6"
+msgstr "标题6"
+
+#: inc/customizer.php:28
+msgid "VW Settings"
+msgstr "大众设定"
+
+#: inc/customizer.php:29
+msgid "Description of what this panel does."
+msgstr "此面板功能的说明。"
+
+#: inc/customizer.php:33
+msgid "General Settings"
+msgstr "通用设置"
+
+#: inc/customizer.php:44
+msgid "Width Layouts"
+msgstr "宽度布局"
+
+#: inc/customizer.php:45
+msgid "Here you can change the width layout of Website."
+msgstr "您可以在此处更改网站的宽度布局。"
+
+#: inc/customizer.php:60
+msgid "Post Sidebar Layout"
+msgstr "发布侧边栏布局"
+
+#: inc/customizer.php:61
+msgid "Here you can change the sidebar layout for posts."
+msgstr "您可以在此处更改帖子的侧边栏布局。"
+
+#: inc/customizer.php:64 inc/customizer.php:83
+msgid "Left Sidebar"
+msgstr "左侧边栏"
+
+#: inc/customizer.php:65 inc/customizer.php:84
+msgid "Right Sidebar"
+msgstr "右侧边栏"
+
+#: inc/customizer.php:66 inc/customizer.php:85
+msgid "One Column"
+msgstr "一栏"
+
+#: inc/customizer.php:67
+msgid "Three Columns"
+msgstr "三栏"
+
+#: inc/customizer.php:68
+msgid "Four Columns"
+msgstr "四列"
+
+#: inc/customizer.php:69
+msgid "Grid Layout"
+msgstr "网格布局"
+
+#: inc/customizer.php:79
+msgid "Page Sidebar Layout"
+msgstr "页面侧栏布局"
+
+#: inc/customizer.php:80
+msgid "Here you can change the sidebar layout for pages."
+msgstr "您可以在此处更改页面的侧边栏布局。"
+
+#: inc/customizer.php:118
+msgid "Pre-Loader"
+msgstr "预装机"
+
+#: inc/customizer.php:128
+msgid "Pre-Loader Type"
+msgstr "预装机类型"
+
+#: inc/customizer.php:131
+msgid "Two Way"
+msgstr "两种方式"
+
+#: inc/customizer.php:132
+msgid "Dots"
+msgstr "点"
+
+#: inc/customizer.php:133
+msgid "Rotate"
+msgstr "旋转"
+
+#: inc/customizer.php:139
+msgid "Topbar Settings"
+msgstr "顶栏设置"
+
+#: inc/customizer.php:151
+msgid "Sticky Header"
+msgstr "粘页眉"
+
+#: inc/customizer.php:161
+msgid "Show / Hide Search"
+msgstr "显示/隐藏搜索"
+
+#: inc/customizer.php:170 inc/customizer.php:468
+msgid "Add Button Text"
+msgstr "添加按钮文字"
+
+#: inc/customizer.php:172
+msgid "Book Now"
+msgstr "现在预订"
+
+#: inc/customizer.php:183
+msgid "Add Button URL"
+msgstr "添加按钮网址"
+
+#: inc/customizer.php:185
+msgid "www.example.com"
+msgstr "www.example.com"
+
+#: inc/customizer.php:193
+msgid "Slider Section"
+msgstr "滑块部分"
+
+#: inc/customizer.php:204
+msgid "Show / Hide slider"
+msgstr "显示/隐藏滑块"
+
+#: inc/customizer.php:215
+msgid "Select Slide Page"
+msgstr "选择幻灯片页面"
+
+#: inc/customizer.php:216
+msgid "Slider image size (1500 x 590)"
+msgstr "滑块图像尺寸（1500 x 590）"
+
+#: inc/customizer.php:229
+msgid "Slider Content Layouts"
+msgstr "滑块内容布局"
+
+#: inc/customizer.php:246
+msgid "Slider Excerpt length"
+msgstr "滑块摘录长度"
+
+#: inc/customizer.php:264
+msgid "Slider Image Opacity"
+msgstr "滑块图像不透明度"
+
+#: inc/customizer.php:284
+msgid "Our Classes Section"
+msgstr "我们的班级"
+
+#: inc/customizer.php:294
+msgid "Section Title"
+msgstr "节标题"
+
+#: inc/customizer.php:296
+msgid "Our Classes"
+msgstr "我们的课程"
+
+#: inc/customizer.php:307
+msgid "Section Text"
+msgstr "栏目文字"
+
+#: inc/customizer.php:309
+msgid "Lorem ipsum is a dummy text."
+msgstr "Lorem ipsum是一个虚拟文本。"
+
+#: inc/customizer.php:334
+msgid "Select Category to display services"
+msgstr "选择类别以显示服务"
+
+#: inc/customizer.php:335
+msgid "Image Size (340 x 255)"
+msgstr "图片尺寸（340 x 255）"
+
+#: inc/customizer.php:348
+msgid "Classes Excerpt length"
+msgstr "类摘录长度"
+
+#: inc/customizer.php:361
+msgid "Blog Post Settings"
+msgstr "博客文章设置"
+
+#: inc/customizer.php:371
+msgid "Post Date"
+msgstr "发布日期"
+
+#: inc/customizer.php:381
+msgid "Author"
+msgstr "作者"
+
+#: inc/customizer.php:391
+msgid "Comments"
+msgstr "注释"
+
+#: inc/customizer.php:403
+msgid "Excerpt length"
+msgstr "摘录长度"
+
+#: inc/customizer.php:421
+msgid "Blog Layouts"
+msgstr "博客布局"
+
+#: inc/customizer.php:431
+msgid "404 Page Settings"
+msgstr "404页面设置"
+
+#: inc/customizer.php:441
+msgid "Add Title"
+msgstr "添加标题"
+
+#: inc/customizer.php:455
+msgid "Add Text"
+msgstr "添加文字"
+
+#: inc/customizer.php:478
+msgid "Customize Home Page"
+msgstr "自定义首页"
+
+#: inc/customizer.php:491
+msgid ""
+"First select static page in homepage setting for front page.Below given edit "
+"button is to customize Home Page. Just click on the edit option, add "
+"whatever elements you want to include in the homepage, save the changes and "
+"you are good to go."
+msgstr ""
+"首先在首页设置中选择静态页面作为首页。在指定的编辑按钮下面是自定义首页。只需"
+"单击编辑选项，添加要包含在主页中的任何元素，保存更改，您就可以开始了。"
+
+#: inc/customizer.php:495 template-parts/image-layout.php:32
+msgid "Edit"
+msgstr "编辑"
+
+#: inc/customizer.php:500
+msgid "Footer"
+msgstr "页脚"
+
+#: inc/customizer.php:509
+msgid "Copyright Text"
+msgstr "版权文字"
+
+#: inc/customizer.php:511
+msgid "Copyright 2018, ....."
+msgstr "版权2018，....."
+
+#: inc/customizer.php:523
+msgid "Show / Hide Scroll To Top"
+msgstr "显示/隐藏滚动到顶部"
+
+#: inc/customizer.php:533
+msgid "Scroll To Top"
+msgstr "滚动到顶部"
+
+#: inc/customizer.php:618
+msgid "VW Yoga Fitness"
+msgstr "大众瑜伽健身"
+
+#: inc/customizer.php:619
+msgid "UPGRADE PRO"
+msgstr "升级专业版"
+
+#: inc/customizer.php:626
+msgid "DOCUMENTATION"
+msgstr "文件资料"
+
+#: inc/customizer.php:627
+msgid "DOCS"
+msgstr "DOCS"
+
+#: template-parts/header/navigation.php:11
+msgid "Menu"
+msgstr "菜单"
+
+#: template-parts/content.php:37 template-parts/content.php:63
+#: template-parts/content.php:88 template-parts/single-post-layout.php:21
+msgid "0 Comment"
+msgstr "0条留言"
+
+#: page-template/custom-home-page.php:40 page-template/custom-home-page.php:89
+#: template-parts/content.php:43 template-parts/content.php:69
+#: template-parts/content.php:94 template-parts/grid-layout.php:25
+msgid "READ MORE"
+msgstr "阅读更多"
+
+#: template-parts/image-layout.php:27
+msgid "Pages:"
+msgstr "页数："
+
+#: template-parts/single-post-layout.php:39
+msgid "Parent post link"
+msgstr "父帖子链接"
+
+#: template-parts/single-post-layout.php:44
+msgid "Next"
+msgstr "下一个"
+
+#: template-parts/single-post-layout.php:45
+msgid "Next post"
+msgstr "下一篇文章"
+
+#: template-parts/single-post-layout.php:47
+msgid "Previous"
+msgstr "以前"
+
+#: template-parts/single-post-layout.php:48
+msgid "Previous post"
+msgstr "上一篇"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "您必须登录才能签出。"
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "您的订单"

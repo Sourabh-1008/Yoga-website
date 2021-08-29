@@ -1,0 +1,737 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VW Yoga Fitness\n"
+"Language-Team: VW Themes <support@vwthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#: 404.php:13 inc/customizer.php:436 inc/customizer.php:443
+msgid "404 Not Found"
+msgstr "404 introuvable"
+
+#: 404.php:14 inc/customizer.php:450 inc/customizer.php:457
+msgid ""
+"Looks like you have taken a wrong turn, Dont worry, it happens to the best "
+"of us."
+msgstr ""
+"On dirait que vous avez pris un mauvais virage, ne vous inquiétez pas, cela "
+"arrive aux meilleurs d'entre nous."
+
+#: no-results.php:17
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Ne vous inquiétez pas et hellip cela arrive au meilleur d'entre nous."
+
+#: 404.php:16
+msgid "Return to the home page"
+msgstr "Retour à la page d'accueil"
+
+#: archive.php:43 archive.php:79 archive.php:114 archive.php:149
+#: archive.php:186 archive.php:225 archive.php:261 image.php:38 image.php:71
+#: image.php:103 image.php:135 image.php:169 image.php:204 image.php:236
+#: index.php:43 index.php:76 index.php:108 index.php:140 index.php:174
+#: index.php:209 index.php:241 search.php:39 search.php:73 search.php:106
+#: search.php:139 search.php:174 search.php:211 search.php:245 single.php:38
+#: single.php:71 sinlge.php:103 sinlge.php:135 sinlge.php:169 sinlge.php:204
+#: sinlge.php:236
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: archive.php:44 archive.php:80 archive.php:115 archive.php:150
+#: archive.php:187 archive.php:226 archive.php:262 image.php:39 image.php:72
+#: image.php:104 image.php:136 image.php:170 image.php:205 image.php:237
+#: index.php:44 index.php:77 index.php:109 index.php:141 index.php:175
+#: index.php:210 index.php:242 search.php:40 search.php:74 search.php:107
+#: search.php:140 search.php:175 search.php:212 search.php:246 single.php:39
+#: single.php:72 single.php:104 single.php:136 single.php:170 single.php:205
+#: single.php:237
+msgid "Next page"
+msgstr "Page suivante"
+
+#: archive.php:45 archive.php:81 archive.php:116 archive.php:151
+#: archive.php:188 archive.php:227 archive.php:263 image.php:40 image.php:73
+#: image.php:105 image.php:137 image.php:171 image.php:206 image.php:238
+#: index.php:45 index.php:78 index.php:110 index.php:142 index.php:176
+#: index.php:211 index.php:243 search.php:41 search.php:75 search.php:108
+#: search.php:141 search.php:176 search.php:213 search.php:247 single.php:40
+#: single.php:73 single.php:105 single.php:137 single.php:171 single.php:206
+#: single.php:238
+msgid "Page"
+msgstr "Page"
+
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Une réflexion sur & ldquo;% s & rdquo;"
+
+#: comments.php:39
+msgid "comments title"
+msgstr "titre des commentaires"
+
+#: comments.php:70
+msgid "Comments are closed"
+msgstr "Les commentaires sont fermés"
+
+#: footer.php:31
+msgid "Copyright 2018-"
+msgstr "Copyright 2018-"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "Menu primaire"
+
+#: functions.php:67
+msgid "Warm Greetings to you!!"
+msgstr "Salutations chaleureuses à vous !!"
+
+#: functions.php:68
+msgid ""
+"Thank you for choosing VW Yoga Fitness Theme. Would like to have you on our "
+"Welcome page so that you can reap all the benefits of our VW Yoga Fitness "
+"Theme."
+msgstr ""
+"Merci d'avoir choisi le thème VW Yoga Fitness. Je voudrais vous avoir sur "
+"notre page d'accueil afin que vous puissiez profiter de tous les avantages "
+"de notre thème VW Yoga Fitness."
+
+#: functions.php:69
+msgid "GET STARTED"
+msgstr "COMMENCER"
+
+#: functions.php:77
+msgid "Blog Sidebar"
+msgstr "Barre latérale du blog"
+
+#: functions.php:78
+msgid "Appears on blog page sidebar"
+msgstr "Apparaît sur la barre latérale de la page de blog"
+
+#: functions.php:87
+msgid "page sidebar"
+msgstr "barre latérale de la page"
+
+#: functions.php:88 functions.php:98
+msgid "Appears on page sidebar"
+msgstr "Apparaît sur la barre latérale de la page"
+
+#: functions.php:97
+msgid "Sidebar 3"
+msgstr "Encadré 3"
+
+#: functions.php:107
+msgid "Footer Navigation 1"
+msgstr "Navigation dans le pied de page 1"
+
+#: functions.php:108
+msgid "Appears on footer 1"
+msgstr "Apparaît sur le pied de page 1"
+
+#: functions.php:117
+msgid "Footer Navigation 2"
+msgstr "Navigation dans le pied de page 2"
+
+#: functions.php:118
+msgid "Appears on footer 2"
+msgstr "Apparaît dans le pied de page 2"
+
+#: functions.php:127
+msgid "Footer Navigation 3"
+msgstr "Navigation dans le pied de page 3"
+
+#: functions.php:128
+msgid "Appears on footer 3"
+msgstr "Apparaît dans le pied de page 3"
+
+#: functions.php:137
+msgid "Footer Navigation 4"
+msgstr "Navigation dans le pied de page 4"
+
+#: functions.php:138
+msgid "Appears on footer 4"
+msgstr "Apparaît dans le pied de page 4"
+
+#: functions.php:147 inc/customizer.php:96
+msgid "Shop Page Sidebar"
+msgstr "Page latérale de la boutique"
+
+#: functions.php:148 functions.php:158
+msgid "Appears on shop page"
+msgstr "Apparaît sur la page boutique"
+
+#: functions.php:157 inc/customizer.php:107
+msgid "Single Product Sidebar"
+msgstr "Barre latérale de produit unique"
+
+#: functions.php:326
+msgid "Yoga WordPress Theme"
+msgstr "Thème WordPress Yoga"
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr "rien n'a été trouvé"
+
+#: no-results.php:12
+msgid "Ready to publish your first post? Get started here"
+msgstr "Prêt à publier votre première publication? Commencez ici"
+
+#: no-results.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords"
+msgstr ""
+"Désolé, mais rien ne correspond à vos termes de recherche. Veuillez "
+"réessayer avec d'autres mots-clés"
+
+#: no-results.php:19
+msgid "Back to Home Page"
+msgstr "Retour à la page d'accueil"
+
+#: search.php:19 search.php:53 search.php:86 search.php:119 search.php:154
+#: search.php:189 search.php:225
+msgid "Results For: %s"
+msgstr "Résultats pour:% s"
+
+#: searchform.php:10 searchform.php:12
+msgid "Search"
+msgstr "Chercher"
+
+#: searchform.php:10
+msgid "placeholder"
+msgstr "espace réservé"
+
+#: searchform.php:12
+msgid "submit button"
+msgstr "bouton de soumission"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "Les archives"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/logo/logo-resizer.php:19
+msgid "Logo Size"
+msgstr "Taille du logo"
+
+#: inc/social-widgets/social-icon.php:12
+msgid "Social Icon"
+msgstr "Icône sociale"
+
+#: inc/social-widgets/social-icon.php:14
+msgid "Widget for Social icons section"
+msgstr "Widget pour la section des icônes sociales"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "Google+"
+msgstr "Google+"
+
+msgid "Linkedin"
+msgstr "Linkedin"
+
+msgid "Instagram"
+msgstr "Instagram"
+
+msgid "Pinterest"
+msgstr "Pinterest"
+
+msgid "Tumblr"
+msgstr "Tumblr"
+
+msgid "Youtube"
+msgstr "Youtube"
+
+msgid "Font Color"
+msgstr "Couleur de la police"
+
+msgid "Font Family"
+msgstr "Famille de polices"
+
+msgid "Font Size"
+msgstr "Taille de police"
+
+msgid "Font Style"
+msgstr "Le style de police"
+
+msgid "Line Height"
+msgstr "Hauteur de la ligne"
+
+msgid "Letter Spacing"
+msgstr "L'espacement des lettres"
+
+msgid "No Fonts weight"
+msgstr "Aucun poids de polices"
+
+msgid "Thin"
+msgstr "Mince"
+
+msgid "Light"
+msgstr "Lumière"
+
+msgid "Normal"
+msgstr "Ordinaire"
+
+msgid "Medium"
+msgstr "Moyen"
+
+msgid "Bold"
+msgstr "Audacieux"
+
+msgid "Ultra Bold"
+msgstr "Ultra Bold"
+
+msgid "Italic"
+msgstr "Italique"
+
+msgid "Oblique"
+msgstr "Oblique"
+
+#: inc/typography/ctypo.php:27
+msgid "Typography"
+msgstr "Typographie"
+
+#: inc/typography/ctypo.php:31
+msgid "Content Typography"
+msgstr "Typographie du contenu"
+
+#: inc/typography/ctypo.php:36
+msgid "Headings Typography"
+msgstr "Rubriques Typographie"
+
+#: inc/typography/ctypo.php:41
+msgid "Global Typography"
+msgstr "Typographie globale"
+
+#: inc/typography/ctypo.php:49
+msgid "First Highlight Color"
+msgstr "Première couleur de surbrillance"
+
+#: inc/typography/ctypo.php:50 inc/typography/ctypo.php:61
+msgid "It will change the highlight color in one click"
+msgstr "Il changera la couleur de surbrillance en un clic"
+
+#: inc/typography/ctypo.php:60
+msgid "Second Highlight Color"
+msgstr "Deuxième couleur de surbrillance"
+
+#: inc/typography/ctypo.php:149
+msgid "Paragraph Color"
+msgstr "Couleur de paragraphe"
+
+#: inc/typography/ctypo.php:150 inc/typography/ctypo.php:156
+msgid "Select how you want your paragraphs to appear."
+msgstr ""
+"Sélectionnez la façon dont vous souhaitez que vos paragraphes apparaissent."
+
+#: inc/typography/ctypo.php:155
+msgid "Paragraph Typography"
+msgstr "Typographie de paragraphe"
+
+#: inc/typography/ctypo.php:176
+msgid "Anchor Tag Color"
+msgstr "Couleur d'étiquette d'ancrage"
+
+#: inc/typography/ctypo.php:177 inc/typography/ctypo.php:183
+msgid "Select how you want your a tag to appear."
+msgstr "Sélectionnez la façon dont vous souhaitez que votre balise apparaisse."
+
+#: inc/typography/ctypo.php:149
+msgid "Anchor Tag Typography"
+msgstr "Typographie des balises d'ancrage"
+
+#: inc/typography/ctypo.php:203
+msgid "Heading 1 Color"
+msgstr "Rubrique 1 couleur"
+
+#: inc/typography/ctypo.php:204 inc/typography/ctypo.php:210
+msgid "Select how heading 1 should appear"
+msgstr "Sélectionnez la façon dont l'en-tête 1 doit apparaître"
+
+#: inc/typography/ctypo.php:209
+msgid "Heading 1"
+msgstr "Rubrique 1"
+
+#: inc/typography/ctypo.php:230
+msgid "Heading 2 Color"
+msgstr "Rubrique 2 Couleur"
+
+#: inc/typography/ctypo.php:231 inc/typography/ctypo.php:237
+msgid "Select how heading 2 should appear"
+msgstr "Sélectionnez la façon dont l'en-tête 2 doit apparaître"
+
+#: inc/typography/ctypo.php:236
+msgid "Heading 2"
+msgstr "Rubrique 2"
+
+#: inc/typography/ctypo.php:257
+msgid "Heading 3 Color"
+msgstr "Rubrique 3 Couleur"
+
+#: inc/typography/ctypo.php:258 inc/typography/ctypo.php:264
+#: inc/typography/ctypo.php:285 inc/typography/ctypo.php:291
+msgid "Select how heading 4 should appear"
+msgstr "Sélectionnez la façon dont l'en-tête 4 doit apparaître"
+
+#: inc/typography/ctypo.php:263
+msgid "Heading 3"
+msgstr "Rubrique 3"
+
+#: inc/typography/ctypo.php:284
+msgid "Heading 4 Color"
+msgstr "Rubrique 4 Couleur"
+
+#: inc/typography/ctypo.php:290
+msgid "Heading 4"
+msgstr "Rubrique 4"
+
+#: inc/typography/ctypo.php:311
+msgid "Heading 5 Color"
+msgstr "Rubrique 5 Couleur"
+
+#: inc/typography/ctypo.php:312 inc/typography/ctypo.php:318
+msgid "Select how heading 5 should appear"
+msgstr "Sélectionnez comment la rubrique 5 doit apparaître"
+
+#: inc/typography/ctypo.php:317
+msgid "Heading 5"
+msgstr "Rubrique 5"
+
+#: inc/typography/ctypo.php:338
+msgid "Heading 6 Color"
+msgstr "Rubrique 6 Couleur"
+
+#: inc/typography/ctypo.php:339 inc/typography/ctypo.php:345
+msgid "Select how heading 6 should appear"
+msgstr "Sélectionnez comment la rubrique 6 doit apparaître"
+
+#: inc/typography/ctypo.php:344
+msgid "Heading 6"
+msgstr "Rubrique 6"
+
+#: inc/customizer.php:28
+msgid "VW Settings"
+msgstr "Paramètres VW"
+
+#: inc/customizer.php:29
+msgid "Description of what this panel does."
+msgstr "Description de ce que fait ce panneau."
+
+#: inc/customizer.php:33
+msgid "General Settings"
+msgstr "réglages généraux"
+
+#: inc/customizer.php:44
+msgid "Width Layouts"
+msgstr "Dispositions de largeur"
+
+#: inc/customizer.php:45
+msgid "Here you can change the width layout of Website."
+msgstr "Ici, vous pouvez modifier la disposition de la largeur du site Web."
+
+#: inc/customizer.php:60
+msgid "Post Sidebar Layout"
+msgstr "Mise en page de la barre latérale"
+
+#: inc/customizer.php:61
+msgid "Here you can change the sidebar layout for posts."
+msgstr ""
+"Ici, vous pouvez modifier la disposition de la barre latérale pour les "
+"publications."
+
+#: inc/customizer.php:64 inc/customizer.php:83
+msgid "Left Sidebar"
+msgstr "Barre latérale de gauche"
+
+#: inc/customizer.php:65 inc/customizer.php:84
+msgid "Right Sidebar"
+msgstr "Barre latérale droite"
+
+#: inc/customizer.php:66 inc/customizer.php:85
+msgid "One Column"
+msgstr "Une colonne"
+
+#: inc/customizer.php:67
+msgid "Three Columns"
+msgstr "Trois colonnes"
+
+#: inc/customizer.php:68
+msgid "Four Columns"
+msgstr "Quatre colonnes"
+
+#: inc/customizer.php:69
+msgid "Grid Layout"
+msgstr "Disposition de la grille"
+
+#: inc/customizer.php:79
+msgid "Page Sidebar Layout"
+msgstr "Disposition de la barre latérale de la page"
+
+#: inc/customizer.php:80
+msgid "Here you can change the sidebar layout for pages."
+msgstr ""
+"Ici, vous pouvez modifier la disposition de la barre latérale pour les pages."
+
+#: inc/customizer.php:118
+msgid "Pre-Loader"
+msgstr "Pré-chargeur"
+
+#: inc/customizer.php:128
+msgid "Pre-Loader Type"
+msgstr "Type de préchargeur"
+
+#: inc/customizer.php:131
+msgid "Two Way"
+msgstr "Deux voies"
+
+#: inc/customizer.php:132
+msgid "Dots"
+msgstr "Les points"
+
+#: inc/customizer.php:133
+msgid "Rotate"
+msgstr "Tourner"
+
+#: inc/customizer.php:139
+msgid "Topbar Settings"
+msgstr "Paramètres de la barre supérieure"
+
+#: inc/customizer.php:151
+msgid "Sticky Header"
+msgstr "En-tête collant"
+
+#: inc/customizer.php:161
+msgid "Show / Hide Search"
+msgstr "Afficher / masquer la recherche"
+
+#: inc/customizer.php:170 inc/customizer.php:468
+msgid "Add Button Text"
+msgstr "Ajouter un texte de bouton"
+
+#: inc/customizer.php:172
+msgid "Book Now"
+msgstr "Reserve maintenant"
+
+#: inc/customizer.php:183
+msgid "Add Button URL"
+msgstr "Ajouter l'URL du bouton"
+
+#: inc/customizer.php:185
+msgid "www.example.com"
+msgstr "www.example.com"
+
+#: inc/customizer.php:193
+msgid "Slider Section"
+msgstr "Section de curseur"
+
+#: inc/customizer.php:204
+msgid "Show / Hide slider"
+msgstr "Afficher / masquer le curseur"
+
+#: inc/customizer.php:215
+msgid "Select Slide Page"
+msgstr "Sélectionnez la page de diapositive"
+
+#: inc/customizer.php:216
+msgid "Slider image size (1500 x 590)"
+msgstr "Taille de l'image du curseur (1500 x 590)"
+
+#: inc/customizer.php:229
+msgid "Slider Content Layouts"
+msgstr "Disposition du contenu du curseur"
+
+#: inc/customizer.php:246
+msgid "Slider Excerpt length"
+msgstr "Slider Extrait longueur"
+
+#: inc/customizer.php:264
+msgid "Slider Image Opacity"
+msgstr "Opacité de l'image du curseur"
+
+#: inc/customizer.php:284
+msgid "Our Classes Section"
+msgstr "Notre section Classes"
+
+#: inc/customizer.php:294
+msgid "Section Title"
+msgstr "Section titre"
+
+#: inc/customizer.php:296
+msgid "Our Classes"
+msgstr "Nos classes"
+
+#: inc/customizer.php:307
+msgid "Section Text"
+msgstr "Texte de la section"
+
+#: inc/customizer.php:309
+msgid "Lorem ipsum is a dummy text."
+msgstr "Lorem ipsum est un texte factice."
+
+#: inc/customizer.php:334
+msgid "Select Category to display services"
+msgstr "Sélectionnez une catégorie pour afficher les services"
+
+#: inc/customizer.php:335
+msgid "Image Size (340 x 255)"
+msgstr "Taille de l'image (340 x 255)"
+
+#: inc/customizer.php:348
+msgid "Classes Excerpt length"
+msgstr "Cours Extrait longueur"
+
+#: inc/customizer.php:361
+msgid "Blog Post Settings"
+msgstr "Paramètres des articles de blog"
+
+#: inc/customizer.php:371
+msgid "Post Date"
+msgstr "Date de publication"
+
+#: inc/customizer.php:381
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/customizer.php:391
+msgid "Comments"
+msgstr "commentaires"
+
+#: inc/customizer.php:403
+msgid "Excerpt length"
+msgstr "Extrait longueur"
+
+#: inc/customizer.php:421
+msgid "Blog Layouts"
+msgstr "Mises en page de blog"
+
+#: inc/customizer.php:431
+msgid "404 Page Settings"
+msgstr "404 Paramètres de page"
+
+#: inc/customizer.php:441
+msgid "Add Title"
+msgstr "Ajouter un titre"
+
+#: inc/customizer.php:455
+msgid "Add Text"
+msgstr "Ajouter du texte"
+
+#: inc/customizer.php:478
+msgid "Customize Home Page"
+msgstr "Personnaliser la page d'accueil"
+
+#: inc/customizer.php:491
+msgid ""
+"First select static page in homepage setting for front page.Below given edit "
+"button is to customize Home Page. Just click on the edit option, add "
+"whatever elements you want to include in the homepage, save the changes and "
+"you are good to go."
+msgstr ""
+"Sélectionnez d'abord la page statique dans les paramètres de la page "
+"d'accueil pour la page d'accueil. Le bouton d'édition ci-dessous permet de "
+"personnaliser la page d'accueil. Cliquez simplement sur l'option d'édition, "
+"ajoutez les éléments que vous souhaitez inclure dans la page d'accueil, "
+"enregistrez les modifications et vous êtes prêt à partir."
+
+#: inc/customizer.php:495 template-parts/image-layout.php:32
+msgid "Edit"
+msgstr "Éditer"
+
+#: inc/customizer.php:500
+msgid "Footer"
+msgstr "Bas de page"
+
+#: inc/customizer.php:509
+msgid "Copyright Text"
+msgstr "Texte de copyright"
+
+#: inc/customizer.php:511
+msgid "Copyright 2018, ....."
+msgstr "Copyright 2018, ....."
+
+#: inc/customizer.php:523
+msgid "Show / Hide Scroll To Top"
+msgstr "Afficher / masquer Faire défiler vers le haut"
+
+#: inc/customizer.php:533
+msgid "Scroll To Top"
+msgstr "Faire défiler vers le haut"
+
+#: inc/customizer.php:618
+msgid "VW Yoga Fitness"
+msgstr "VW Yoga Fitness"
+
+#: inc/customizer.php:619
+msgid "UPGRADE PRO"
+msgstr "UPGRADE PRO"
+
+#: inc/customizer.php:626
+msgid "DOCUMENTATION"
+msgstr "DOCUMENTATION"
+
+#: inc/customizer.php:627
+msgid "DOCS"
+msgstr "DOCS"
+
+#: template-parts/header/navigation.php:11
+msgid "Menu"
+msgstr "Menu"
+
+#: template-parts/content.php:37 template-parts/content.php:63
+#: template-parts/content.php:88 template-parts/single-post-layout.php:21
+msgid "0 Comment"
+msgstr "0 Commentaire"
+
+#: page-template/custom-home-page.php:40 page-template/custom-home-page.php:89
+#: template-parts/content.php:43 template-parts/content.php:69
+#: template-parts/content.php:94 template-parts/grid-layout.php:25
+msgid "READ MORE"
+msgstr "LIRE LA SUITE"
+
+#: template-parts/image-layout.php:27
+msgid "Pages:"
+msgstr "Pages:"
+
+#: template-parts/single-post-layout.php:39
+msgid "Parent post link"
+msgstr "Lien de publication parent"
+
+#: template-parts/single-post-layout.php:44
+msgid "Next"
+msgstr "Prochain"
+
+#: template-parts/single-post-layout.php:45
+msgid "Next post"
+msgstr "Prochain article"
+
+#: template-parts/single-post-layout.php:47
+msgid "Previous"
+msgstr "Précédent"
+
+#: template-parts/single-post-layout.php:48
+msgid "Previous post"
+msgstr "Post précédent"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Vous devez être connecté pour passer à la caisse."
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "Votre commande"

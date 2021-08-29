@@ -1,0 +1,47 @@
+.main-banner-section h1, .clases-section h2, .clases-section h3, .main-banner-section .block-editor-rich-text__editable.wp-block-button__link, .clases-section .block-editor-rich-text__editable.wp-block-button__link{
+  font-family: 'Kaushan Script', cursive;
+}
+.main-banner-section p, .clases-section p{
+  font-family: 'Poppins', sans-serif;
+}
+/*Banner section*/
+.main-banner-section .block-editor-rich-text__editable.wp-block-button__link:hover {
+  background: #788ecf !important;
+}
+/*Classes section*/
+.clases-section h2:after{
+  content: "" !important;
+  border-bottom: solid 3px #a887c9;
+  position: relative !important;
+  width: 6%;
+  margin: 10px auto;
+  display: block;
+}
+.article-content h3.block-editor-rich-text__editable.block-editor-block-list__block.wp-block:after{
+  content: "";
+  border-bottom: solid 3px #fff;
+  position: relative;
+  width: 6%;
+  margin: 10px auto;
+  display: block;
+}
+.clases-section .block-editor-rich-text__editable.wp-block-button__link:after {
+  content: "\f105";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  color: #fff;
+  margin-left: 10px;
+}
+.wp-block-column.article-inner-box.block-editor-block-list__block.wp-block.block-core-columns.block-editor-block-list__layout{
+	background: #a887c9;
+}
+.article-inner-box figure.wp-block-image.block-editor-block-list__block.wp-block {
+	text-align: center;
+}
+.article-inner-box .block-editor-rich-text__editable.wp-block-button__link{
+	background: transparent;
+}
+.article-inner-box .wp-block-button.block-editor-block-list__block.wp-block, .article-inner-box .wp-block-buttons.block-editor-block-list__block.block-editor-block-list__layout{
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+}
